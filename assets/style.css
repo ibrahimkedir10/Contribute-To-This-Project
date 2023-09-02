@@ -12,6 +12,7 @@
 
 body {
   color: var(--dark-purple);
+  background-color: aqua;
   background-size: 100% 400%;
   background-position: 100% 0%;
   transition: all 1s;
